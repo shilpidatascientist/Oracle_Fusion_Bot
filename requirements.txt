@@ -1,0 +1,13 @@
+#Need python 3.12.0
+python-dotenv
+openai
+requests
+langgraph
+langgraph_supervisor
+langchain
+langchain_community
+langchain-community
+markdown
+pillow
+flask
+
