@@ -1,4 +1,5 @@
-AI-Powered Multi-Agent Automation for Oracle Fusion Application
+**AI-Powered Multi-Agent Automation for Oracle Fusion Application**
+
 Introduction
 Oracle AI Agent Studio is a development platform for Fusion Apps that lets us customize AI agents to automate business needs for ERP , HCM, SCM, and CX
 Here we would explore a different approach that helps to interact directly with Oracle Fusion Applications through REST API’s and responds to user queries using intelligent reasoning, context-awareness, and dynamic orchestration between specialized agents like PO Agent, Invoice Agent, etc. This multi-agentic work-around eliminates the dependency of Oracle AI Agent Studio or Oracle Digital Assistant and can be used in general outside of Oracle Cloud Infrastructure for any use case.
